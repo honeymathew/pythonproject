@@ -1,0 +1,7 @@
+1|liz|tom|computer|9876513245|3.4|April 6th, 1999
+2|liz|mass|civil|9432568721|3.5|June 8th, 2000
+3|asif|hho|civil|9432568721|3.5|June 8th, 2000
+4|ulsa|jaas|civil|9432568721|3.5|June 8th, 2000
+5|kusma|olomas|civil|9432568721|3.5|June 8th, 2000
+6|shushu|hushu|civil|9432568721|3.5|June 8th, 2000
+7|kulusu|thulaku|civil|9432568721|3.5|June 8th, 2000
